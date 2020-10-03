@@ -1,0 +1,3 @@
+[submodule "Design Rules/JLCPCB"]
+	path = Design Rules/JLCPCB
+	url = git@github.com:ayberkozgur/jlcpcb-design-rules-stackups.git
