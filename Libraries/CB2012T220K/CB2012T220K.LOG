@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : CB2012T220K.LibPkg
+
+Section : C:\Users\lopezr\repos\altium_data\Libraries\CB2012T220K.lia
+    Section : PCB Library - CB2012T220K.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CB2012T220K On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 154
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CB2012T220K.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 102
+        EndSection
+
+        Section : Generating SCH Library - CB2012T220K.SchLib
+        EndSection
+    EndSection
+EndSection
